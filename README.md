@@ -1,6 +1,6 @@
 # Task 1 
 ## Subtask 1 
-miejsce na moją odpowiedź
+10 🙀
 ## Subtask 3
 Cześć! Nazywam się Iwona, lubię spacery, jogę i  filmiki z kotami 😉. 
 
