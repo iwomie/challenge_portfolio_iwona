@@ -23,5 +23,7 @@ Aplikacja gromadzi informacje dotyczące zawodników grających w piłkę nożn�
 * dodawanie meczu 
 * dodawanie raportu 
 * rozpoczęcie meczu 
+### Interfejs aplikacji 
+Aplikacja wygląda prosto, nie jest bardzo rozbudowana. 
 
 
