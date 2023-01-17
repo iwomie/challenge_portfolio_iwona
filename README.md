@@ -11,17 +11,17 @@ Moim głównym celem jest sprawdzenie czy jest to praca dla mnie, a dzięki temu
 ### Na czym polega ta aplikacja? Do czego służy?
 Aplikacja gromadzi informacje dotyczące zawodników grających w piłkę nożną. Dostępne są tam informacje o piłkarzach oraz ich statystyki w poszczególnych meczach
 ### Funkcjonalności w aplikacji 
-*logowanie do systemu
-wylogowanie z systemu 
-przypomnienie hasła
-zmiana języka 
-lista graczy 
-pobieranie listy graczy
-drukowanie listy graczy
-wyszukiwanie/ filtrowanie graczy 
-dodawanie gracza
-dodawanie meczu 
-dodawanie raportu 
-rozpoczęcie meczu 
+* logowanie do systemu
+* wylogowanie z systemu 
+* przypomnienie hasła
+* zmiana języka 
+* lista graczy 
+* pobieranie listy graczy
+* drukowanie listy graczy
+* wyszukiwanie/ filtrowanie graczy 
+* dodawanie gracza
+* dodawanie meczu 
+* dodawanie raportu 
+* rozpoczęcie meczu 
 
 
