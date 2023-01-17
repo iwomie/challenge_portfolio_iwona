@@ -44,3 +44,4 @@ Poruszanie po aplikacji jest dosyć łatwe, tzn. nie miałam większych problem�
 * Ekran główny 
 1. Pojawił mi się komunikat o niezapisanej grze z odnośnikiem do raportu, który powinien mnie do niej przenieść, ale był nieaktywny
 
+
