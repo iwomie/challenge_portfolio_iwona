@@ -34,8 +34,8 @@ Poruszanie po aplikacji jest dosyć łatwe, tzn. nie miałam większych problem�
 3. Można dodać ujemne wartości wzrostu oraz wagi 
 * Funkcjonalność: dodawanie meczu
 1. Można dodać datę meczu z przyszłości 
-2. Nie wszystkie pola są przetłumaczone na język polski („web match” oraz „general”)
-3. Można dodać wartości ujemne w polach „czas gry” oraz „numer”
+2. Nie wszystkie pola są przetłumaczone na język polski (web match oraz general)
+3. Można dodać wartości ujemne w polach czas gry oraz numer
 4. Przy nieudanej próbie dodania meczu nie ma informacji jakie pole trzeba poprawić, żeby go dodać
 * Funkcjonalność: dodawanie raportu 
 1. Przycisk dodawania raportu w sekcji raporty jest nieaktywny - dodawanie raportu możliwe jest tylko w sekcji mecz 
