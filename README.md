@@ -33,14 +33,14 @@ Aplikacja jest czytelna, prosta w formie, nie jest bardzo rozbudowana.
 Poruszanie się po aplikacji jest dosyć łatwe, tzn. nie miałam większych problemów ze znalezieniem gdzie dodać piłkarza czy mecz. W samych formularzach zabrakło mi informacji/ objaśnienia jakie konkretnie dane mają się z znaleźć w poszczególnych polach, czy np. czas ma być podany w sekundach, minutach lub godzinach.
 ### Błędy w aplikacji 
 * Funkcjonalność: dodawanie gracza
-1. Przy nieudanej próbie dodania gracza nie ma informacji jakie pole trzeba poprawić, żeby go dodać
+1. Przy nieudanej próbie dodania gracza nie ma informacji jakie pole trzeba poprawić
 2. Można dodać datę urodzenia z przyszłości
 3. Można dodać ujemne wartości wzrostu oraz wagi 
 * Funkcjonalność: dodawanie meczu
 1. Można dodać datę meczu z przyszłości 
 2. Nie wszystkie pola są przetłumaczone na język polski (web match oraz general)
 3. Można dodać wartości ujemne w polach czas gry oraz numer
-4. Przy nieudanej próbie dodania meczu nie ma informacji jakie pole trzeba poprawić, żeby go dodać
+4. Przy nieudanej próbie dodania meczu nie ma informacji jakie pole trzeba poprawić
 * Funkcjonalność: dodawanie raportu 
 1. Przycisk dodawania raportu w sekcji raporty jest nieaktywny - dodawanie raportu możliwe jest tylko w sekcji mecz 
 * Funkcjonalność: rozpoczęcie meczu 
