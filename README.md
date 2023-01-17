@@ -30,7 +30,7 @@ Aplikacja gromadzi informacje dotyczące zawodników grających w piłkę nożn�
 ### Interfejs aplikacji 
 Aplikacja jest czytelna, prosta w formie, nie jest bardzo rozbudowana. 
 ### Czy aplikacja jest intuicyjna?
-Poruszanie się po aplikacji jest dosyć łatwe, tzn. nie miałam większych problemów ze znalezieniem gdzie dodać piłkarz czy mecz. W samych formularzach zabrakło mi informacji/ objaśnienia jakie konkretnie dane mają się z znaleźć w poszczególnych polach, czy np. czas ma być podany w sekundach, minutach lub godzinach.
+Poruszanie się po aplikacji jest dosyć łatwe, tzn. nie miałam większych problemów ze znalezieniem gdzie dodać piłkarza czy mecz. W samych formularzach zabrakło mi informacji/ objaśnienia jakie konkretnie dane mają się z znaleźć w poszczególnych polach, czy np. czas ma być podany w sekundach, minutach lub godzinach.
 ### Błędy w aplikacji 
 * Funkcjonalność: dodawanie gracza
 1. Przy nieudanej próbie dodania gracza nie ma informacji jakie pole trzeba poprawić, żeby go dodać
