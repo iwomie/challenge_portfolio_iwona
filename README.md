@@ -46,7 +46,7 @@ Poruszanie się po aplikacji jest dosyć łatwe, tzn. nie miałam większych pro
 * Funkcjonalność: rozpoczęcie meczu 
 1. W meczu można dodać inną ilość strzelonych goli niż w dodanym formularzu meczu
 * Ekran główny 
-1. Pojawił się komunikat o niezapisanej grze z odnośnikiem do raportu, który powinien do niej przenieść, ale był nieaktywny
+1. Pojawił się komunikat o niezapisanej grze z odnośnikiem do raportu, który powinien do niej przenieść, ale był on nieaktywny
 ### Co bym zmieniła lub dodała do aplikacji?
 * Przy próbie zalogowania się e-mailem, który nie został zarejestrowany w bazie, dodałabym informację, że nie istnieje konto powiązane z podanymi adresem emailem 
 * Dodałabym informacje/ objaśnienia jakie dane mają się znaleźć w poszczególnych polach formularzy 
