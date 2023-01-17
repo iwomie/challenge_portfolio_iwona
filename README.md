@@ -13,7 +13,7 @@ Zdecydowałam się wziąć udział w projekcie, ponieważ od dawna myślę o zmi
 Moim głównym celem jest sprawdzenie czy jest to praca dla mnie, a dzięki temu, że w projekcie ma być dużo zadań, a nie tylko sama teoria to myślę, że po jego zakończeniu dostanę odpowiedź na to pytanie. 
 ## Subtask 4 
 ### Na czym polega ta aplikacja? Do czego służy?
-Aplikacja gromadzi informacje dotyczące zawodników grających w piłkę nożną. Dostępne są tam informacje o piłkarzach oraz ich statystyki w poszczególnych meczach
+Aplikacja gromadzi informacje dotyczące zawodników grających w piłkę nożną. Dostępne są tam informacje o piłkarzach oraz ich statystyki w poszczególnych meczach.
 ### Funkcjonalności w aplikacji 
 * logowanie do systemu
 * wylogowanie z systemu 
