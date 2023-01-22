@@ -7,7 +7,7 @@
 [Task 2](#Task-2)
 * [Subtask 1 Test cases](#Subtask-1-Test-cases)
 * [Subtask 2 Test cases](#Subtask-2-Test-cases)
-* [Subtask 3 Po co piszemy test case’y?](#Subtask-3-Po-co-piszemy-test-case’y?)
+* [Subtask 3 Po co piszemy test case’y?](#Subtask-3-Po-co-piszemy-test-casey?)
 # Task 1 
 ## Subtask 1 
 10 😺
@@ -62,4 +62,4 @@ Poruszanie się po aplikacji jest dosyć łatwe, tzn. nie miałam większych pro
 https://docs.google.com/spreadsheets/d/1SGpjxqexbIPE9JSs438MBMgA6geVcO31SISJ9r27u9c/edit?usp=sharing
 ## Subtask 2 Test cases
 https://docs.google.com/spreadsheets/d/1QilR0XSCOv1O4FqOEfBx0q3nSICCyLcEmMPkZJTKMdc/edit#gid=0
-## Subtask 3 Po co piszemy test case’y?
+## Subtask 3 Po co piszemy test casey?
