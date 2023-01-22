@@ -7,7 +7,7 @@
 [Task 2](#Task-2)
 * [Subtask 1 Test cases](#Subtask-1-Test-cases)
 * [Subtask 2 Test cases](#Subtask-2-Test-cases)
-* [Subtask 3 Po co piszemy test case’y?](#Subtask-3-Po-co-piszemy-test-casey?)
+* [Subtask 3 Po co piszemy test casey?](#Subtask-3-Po-co-piszemy-test-casey?)
 # Task 1 
 ## Subtask 1 
 10 😺
