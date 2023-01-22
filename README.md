@@ -1,15 +1,15 @@
 # Table of contents
 [1.Task 1](#1.Task-1)
-* [1.1.Subtask 1](#1.1.Subtask-1)
-* [Subtask 3](#Subtask-3)
+* [1.1. Subtask 1](#1.1.-Subtask-1)
+* [1.2. Subtask 3](#1.2.-Subtask-3)
 * [Subtask 4](#Subtask-4)
 
 2.Task 2
 *
 # Task 1 
-## 1.1.Subtask 1 
+## 1.1. Subtask 1 
 10 😺
-## Subtask 3
+## 1.2. Subtask 3
 Cześć! Nazywam się Iwona, lubię spacery, jogę i  filmiki z kotami 😉. 
 
 Zdecydowałam się wziąć udział w projekcie, ponieważ od dawna myślę o zmianie zawodu i szukam nowej ścieżki kariery. 
