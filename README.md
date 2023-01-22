@@ -1,5 +1,5 @@
 # Table of contents
-[1.Task 1](#1.Task-1)
+[1. Task 1](#1.Task-1)
 * [1.1. Subtask 1](#1.1.-Subtask-1)
 * [1.2. Subtask 3](#1.2.-Subtask-3)
 * [Subtask 4](#Subtask-4)
