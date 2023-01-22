@@ -6,7 +6,7 @@
 
 [Task 2](#Task-2)
 * [Subtask 1 Test cases](#Subtask-1-Test-cases)
-* 
+* [Subtask 2 Test cases](#Subtask-2-Test-cases)
 # Task 1 
 ## Subtask 1 
 10 😺
@@ -59,4 +59,5 @@ Poruszanie się po aplikacji jest dosyć łatwe, tzn. nie miałam większych pro
 # Task 2 
 ## Subtask 1 Test cases
 https://docs.google.com/spreadsheets/d/1SGpjxqexbIPE9JSs438MBMgA6geVcO31SISJ9r27u9c/edit?usp=sharing
+## Subtask 2 Test cases
 
