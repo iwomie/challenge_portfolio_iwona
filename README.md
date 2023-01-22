@@ -1,8 +1,11 @@
-# Task 1 
-## Table of contents
+# Table of contents
+Task 1
 * [Subtask-1](#Subtask-1)
 * [Subtask-3](#Subtask-3)
 * [Subtask-4](#Subtask-4)
+Task 2
+*
+# Task 1 
 ## Subtask 1 
 10 😺
 ## Subtask 3
@@ -51,5 +54,5 @@ Poruszanie się po aplikacji jest dosyć łatwe, tzn. nie miałam większych pro
 * Przy próbie zalogowania się e-mailem, który nie został zarejestrowany w bazie, dodałabym informację, że nie istnieje konto powiązane z podanymi adresem e-mail 
 * Dodałabym informacje/ objaśnienia jakie dane mają się znaleźć w poszczególnych polach formularzy 
 * Przy opuszczaniu strony z niezapisanym formularzem dodałabym komunikat, że opuszczenie strony spowoduje utracenie/ niezapisanie danych
-
+# Task 2 
 
