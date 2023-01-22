@@ -1,8 +1,8 @@
 # Table of contents
-[1.Task-1](#1.Task-1)
-* [1.1.Subtask-1](#1.1.Subtask-1)
-* [Subtask-3](#Subtask-3)
-* [Subtask-4](#Subtask-4)
+[1.Task 1](#1.Task-1)
+* [1.1.Subtask 1](#1.1.Subtask-1)
+* [Subtask 3](#Subtask-3)
+* [Subtask 4](#Subtask-4)
 
 2.Task 2
 *
