@@ -8,6 +8,7 @@
 * [Subtask 1 Test cases](#Subtask-1-Test-cases)
 * [Subtask 2 Test cases](#Subtask-2-Test-cases)
 * [Subtask 3 Po co piszemy test case\'y?](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README.md#subtask-3-po-co-piszemy-test-casey)
+* [Subtask 4 Test cases] (#
 # Task 1 
 ## Subtask 1 
 10 😺
@@ -64,3 +65,5 @@ https://docs.google.com/spreadsheets/d/1SGpjxqexbIPE9JSs438MBMgA6geVcO31SISJ9r27
 https://docs.google.com/spreadsheets/d/1QilR0XSCOv1O4FqOEfBx0q3nSICCyLcEmMPkZJTKMdc/edit#gid=0
 ## Subtask 3 Po co piszemy test case\'y?
 Moim zdaniem przypadki testowe są tworzone w celu uporządkowania procesu testowania oraz, żeby można było z łatwością powtórzyć dany test np. po znalezieniu i naprawieniu błędu. 
+## Subtask 4 Test cases
+https://docs.google.com/spreadsheets/d/1p_IvMNyt3BvLAFJwj0qZYxqbq75bnNNEeMAKMn7Fyuo/edit?usp=sharing
