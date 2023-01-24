@@ -63,3 +63,4 @@ https://docs.google.com/spreadsheets/d/1SGpjxqexbIPE9JSs438MBMgA6geVcO31SISJ9r27
 ## Subtask 2 Test cases
 https://docs.google.com/spreadsheets/d/1QilR0XSCOv1O4FqOEfBx0q3nSICCyLcEmMPkZJTKMdc/edit#gid=0
 ## Subtask 3 Po co piszemy test case\'y?
+Moim zdaniem przypadki testowe są tworzone w celu uporządkowania procesu testowania oraz, żeby można było z łatwością powtórzyć dany test np. po znalezieniu i naprawieniu błędu. 
