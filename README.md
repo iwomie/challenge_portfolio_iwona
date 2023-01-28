@@ -1,6 +1,6 @@
 # Table of contents
 [Task 1](#Task-1)
-* [Subtask 1. Wyniki testu](#Subtask-1)
+* [Subtask 1. Wyniki testu]([#Subtask-1](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README.md#subtask-1-wyniki-testu)
 * [Subtask 3. O mnie](#Subtask-3)
 * [Subtask 4. O aplikacji](#Subtask-4)
 
