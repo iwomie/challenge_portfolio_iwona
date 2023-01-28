@@ -1,8 +1,8 @@
 # Table of contents
 [Task 1](#Task-1)
-* [Subtask 1](#Subtask-1)
-* [Subtask 3](#Subtask-3)
-* [Subtask 4](#Subtask-4)
+* [Subtask 1 Wyniki testu](#Subtask-1)
+* [Subtask 3 O mnie](#Subtask-3)
+* [Subtask 4 O aplikacji](#Subtask-4)
 
 [Task 2](#Task-2)
 * [Subtask 1 Test cases](#Subtask-1-Test-cases)
@@ -10,15 +10,15 @@
 * [Subtask 3 Po co piszemy test case\'y?](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README.md#subtask-3-po-co-piszemy-test-casey)
 * [Subtask 4 Test cases](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README.md#subtask-4-test-cases)
 # Task 1 
-## Subtask 1 
+## Subtask 1 Wyniki testu 
 10 😺
-## Subtask 3
+## Subtask 3 O mnie 
 Cześć! Nazywam się Iwona, lubię spacery, jogę i  filmiki z kotami 😉. 
 
 Zdecydowałam się wziąć udział w projekcie, ponieważ od dawna myślę o zmianie zawodu i szukam nowej ścieżki kariery. 
 
 Moim głównym celem jest sprawdzenie czy jest to praca dla mnie, a dzięki temu, że w projekcie ma być dużo zadań, a nie tylko sama teoria to myślę, że po jego zakończeniu dostanę odpowiedź na to pytanie. 
-## Subtask 4 
+## Subtask 4 O aplikacji
 ### Na czym polega ta aplikacja? Do czego służy?
 Aplikacja gromadzi informacje dotyczące zawodników grających w piłkę nożną. Dostępne są tam informacje o piłkarzach oraz ich statystyki w poszczególnych meczach.
 ### Funkcjonalności w aplikacji 
