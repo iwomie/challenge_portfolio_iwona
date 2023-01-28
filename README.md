@@ -10,7 +10,7 @@
 * [Subtask 3. Po co piszemy test case\'y?](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README.md#subtask-3-po-co-piszemy-test-casey)
 * [Subtask 4. Test cases](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README.md#subtask-4-test-cases)
 
-[Task 3]
+[Task 3](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README.md#task-3)
 # Task 1 
 ## Subtask 1. Wyniki testu 
 10 😺
