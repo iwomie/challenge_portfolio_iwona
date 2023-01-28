@@ -2,7 +2,7 @@
 [Task 1](#Task-1)
 * [Subtask 1. Wyniki testu](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README.md#subtask-1-wyniki-testu)
 * [Subtask 3. O mnie](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README.md#subtask-3-o-mnie)
-* [Subtask 4. O aplikacji](#Subtask-4)
+* [Subtask 4. O aplikacji](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README.md#subtask-4-o-aplikacji)
 
 [Task 2](#Task-2)
 * [Subtask 1. Test cases](#Subtask-1-Test-cases)
