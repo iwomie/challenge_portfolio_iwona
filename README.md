@@ -9,6 +9,8 @@
 * [Subtask 2. Test cases](#Subtask-2-Test-cases)
 * [Subtask 3. Po co piszemy test case\'y?](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README.md#subtask-3-po-co-piszemy-test-casey)
 * [Subtask 4. Test cases](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README.md#subtask-4-test-cases)
+
+[Task 3]
 # Task 1 
 ## Subtask 1. Wyniki testu 
 10 😺
@@ -67,3 +69,4 @@ https://docs.google.com/spreadsheets/d/1QilR0XSCOv1O4FqOEfBx0q3nSICCyLcEmMPkZJTK
 Przypadki testowe są tworzone w celu uporządkowania procesu testowania oraz, żeby można było z łatwością powtórzyć dany test np. po znalezieniu błędu i jego naprawieniu. Przypadki testowe dają obraz tego jak powinna działać aplikacja, pozwalają na wykrycie nie tylko ewentualnych błędów w testowanej aplikacji, ale również w dokumentacji czy users story. Dzięki test case'om mamy również kontrolę nad zmianami w aplikacji. 
 ## Subtask 4. Test cases
 https://docs.google.com/spreadsheets/d/1p_IvMNyt3BvLAFJwj0qZYxqbq75bnNNEeMAKMn7Fyuo/edit?usp=sharing
+# Task 3
