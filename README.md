@@ -11,6 +11,7 @@
 * [Subtask 4. Test cases](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README.md#subtask-4-test-cases)
 
 [Task 3](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README.md#task-3)
+* [Subtask. 2. Testowanie według planów testów i raportowanie błędów]
 # Task 1 
 ## Subtask 1. Wyniki testu 
 10 😺
@@ -70,3 +71,8 @@ Przypadki testowe są tworzone w celu uporządkowania procesu testowania oraz, �
 ## Subtask 4. Test cases
 https://docs.google.com/spreadsheets/d/1p_IvMNyt3BvLAFJwj0qZYxqbq75bnNNEeMAKMn7Fyuo/edit?usp=sharing
 # Task 3
+## Subtask. 2. Testowanie według planów testów i raportowanie błędów
+* Testowanie według planów testów 
+https://docs.google.com/spreadsheets/d/18kLK4x-17psdC-EnCq14HQb1uiNIo_uRbaVzS4AVTRo/edit?usp=sharing
+* Raportowanie błędów
+https://docs.google.com/spreadsheets/d/17EiWaU9rMqxWLWueae70ncigpOV_Sexu0Aq4yc3YGV8/edit?usp=sharing
