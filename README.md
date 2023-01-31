@@ -12,6 +12,7 @@
 
 [Task 3](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README.md#task-3)
 * [Subtask 2. Testowanie według planów testów i raportowanie błędów](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README.md#subtask-2-testowanie-według-planów-testów-i-raportowanie-błędów)
+* [Subtask 3. Raport z wykonanych testów]
 # Task 1 
 ## Subtask 1. Wyniki testu 
 10 😺
@@ -78,3 +79,5 @@ https://docs.google.com/spreadsheets/d/18kLK4x-17psdC-EnCq14HQb1uiNIo_uRbaVzS4AV
 * Raportowanie błędów
 
 https://docs.google.com/spreadsheets/d/17EiWaU9rMqxWLWueae70ncigpOV_Sexu0Aq4yc3YGV8/edit?usp=sharing
+## Subtask 3. Raport z wykonanych testów
+https://docs.google.com/document/d/1XFhdk0StShKBr0pOk9cfHfXyI3ce9fzmO732qFvB1Ys/edit?usp=sharing
