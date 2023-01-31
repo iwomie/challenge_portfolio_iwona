@@ -73,6 +73,8 @@ https://docs.google.com/spreadsheets/d/1p_IvMNyt3BvLAFJwj0qZYxqbq75bnNNEeMAKMn7F
 # Task 3
 ## Subtask. 2. Testowanie według planów testów i raportowanie błędów
 * Testowanie według planów testów 
+
 https://docs.google.com/spreadsheets/d/18kLK4x-17psdC-EnCq14HQb1uiNIo_uRbaVzS4AVTRo/edit?usp=sharing
 * Raportowanie błędów
+
 https://docs.google.com/spreadsheets/d/17EiWaU9rMqxWLWueae70ncigpOV_Sexu0Aq4yc3YGV8/edit?usp=sharing
