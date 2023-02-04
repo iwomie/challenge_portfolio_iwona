@@ -16,7 +16,7 @@
 
 [Task 4](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README.md#task-4)
 * [Subtask 2. Testowanie eksploracyjne i raportowanie błędów](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README.md#subtask-2-testowanie-eksploracyjne-i-raportowanie-błędów)
-* [Subtask 3 - Do czego służy aplikacja?](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README.md#subtask-3---do-czego-służy-aplikacja)
+* [Subtask 3. Do czego służy aplikacja?](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README.md#subtask-3---do-czego-służy-aplikacja)
 # Task 1 
 ## Subtask 1. Wyniki testu 
 10 😺
@@ -89,4 +89,4 @@ https://docs.google.com/document/d/1XFhdk0StShKBr0pOk9cfHfXyI3ce9fzmO732qFvB1Ys/
 ## Subtask 2. Testowanie eksploracyjne i raportowanie błędów
 https://docs.google.com/spreadsheets/d/1wosRaUmmiVkhifE9PtMZua0VE5fBsaMOzOVV7uJndL0/edit?usp=sharing
 
-## Subtask 3 - Do czego służy aplikacja?
+## Subtask 3. Do czego służy aplikacja?
