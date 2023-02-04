@@ -1,22 +1,22 @@
 # _Spis treści_
 _**[Task 1](#Task-1)**_
 * _[Subtask 1. Wyniki testu](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README.md#subtask-1-wyniki-testu)_
-* [Subtask 3. O mnie](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README.md#subtask-3-o-mnie)
-* [Subtask 4. O aplikacji](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README.md#subtask-4-o-aplikacji)
+* _[Subtask 3. O mnie](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README.md#subtask-3-o-mnie)_
+* _[Subtask 4. O aplikacji](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README.md#subtask-4-o-aplikacji)_
 
-[Task 2](#Task-2)
-* [Subtask 1. Test cases](#Subtask-1-Test-cases)
-* [Subtask 2. Test cases](#Subtask-2-Test-cases)
-* [Subtask 3. Po co piszemy test case\'y?](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README.md#subtask-3-po-co-piszemy-test-casey)
-* [Subtask 4. Test cases](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README.md#subtask-4-test-cases)
+_**[Task 2](#Task-2)**_
+* _[Subtask 1. Test cases](#Subtask-1-Test-cases)_
+* _[Subtask 2. Test cases](#Subtask-2-Test-cases)_
+* _[Subtask 3. Po co piszemy test case\'y?](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README.md#subtask-3-po-co-piszemy-test-casey)_
+* _[Subtask 4. Test cases](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README.md#subtask-4-test-cases)_
 
-[Task 3](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README.md#task-3)
-* [Subtask 2. Testowanie według planów testów i raportowanie błędów](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README.md#subtask-2-testowanie-według-planów-testów-i-raportowanie-błędów)
-* [Subtask 3. Raport z wykonanych testów](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README.md#subtask-3-raport-z-wykonanych-testów)
+_**[Task 3](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README.md#task-3)**_
+* _[Subtask 2. Testowanie według planów testów i raportowanie błędów](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README.md#subtask-2-testowanie-według-planów-testów-i-raportowanie-błędów)_
+* _[Subtask 3. Raport z wykonanych testów](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README.md#subtask-3-raport-z-wykonanych-testów)_
 
-[Task 4](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README.md#task-4)
-* [Subtask 2. Testowanie eksploracyjne i raportowanie błędów](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README.md#subtask-2-testowanie-eksploracyjne-i-raportowanie-błędów)
-* [Subtask 3. Do czego służy aplikacja?](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README.md#subtask-3-do-czego-służy-aplikacja)
+_**[Task 4](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README.md#task-4)**_
+* _[Subtask 2. Testowanie eksploracyjne i raportowanie błędów](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README.md#subtask-2-testowanie-eksploracyjne-i-raportowanie-błędów)_
+* _[Subtask 3. Do czego służy aplikacja?](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README.md#subtask-3-do-czego-służy-aplikacja)_
 # Task 1 
 ## Subtask 1. Wyniki testu 
 10 😺
