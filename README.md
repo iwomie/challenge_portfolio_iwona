@@ -15,7 +15,7 @@
 * [Subtask 3. Raport z wykonanych testów](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README.md#subtask-3-raport-z-wykonanych-testów)
 
 [Task 4](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README.md#task-4)
-* [Subtask 2. Testowanie eksploracyjne i raportowanie błędów](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README.md#subtask-2)
+* [Subtask 2. Testowanie eksploracyjne i raportowanie błędów](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README.md#subtask-2-testowanie-eksploracyjne-i-raportowanie-błędów)
 # Task 1 
 ## Subtask 1. Wyniki testu 
 10 😺
