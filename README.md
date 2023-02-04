@@ -93,8 +93,10 @@ https://docs.google.com/spreadsheets/d/1wosRaUmmiVkhifE9PtMZua0VE5fBsaMOzOVV7uJn
 ### 1. Do czego służy aplikacja? Jaki jest cel aplikacji?
 Aplikacja służy do kupna/sprzedaży/wymiany/oddawania/wynajmowania usług oraz towarów. Aplikacja posiada wiele różnych kategorii produktowej, a dzięki niej można w prosty sposób sprzedać lub oddać niepotrzebne rzeczy, znaleźć nowy dom dla zwierząt czy też zamieścić ogłoszenie o wynajmie mieszkania. W zależności od nabywanego produktu czy też usługi do wyboru jest odbiór osobisty lub przesyłka kurierska.   
 ### 2. Kto ma być użytkownikiem końcowym aplikacji?
-Użytkownikiem końcowym aplikacji mają być wszyscy ci, którzy potrzebują coś sprzedać/kupić, wymienić lub oddać. 
+Użytkownikiem końcowym aplikacji są wszyscy, którzy potrzebują coś sprzedać/kupić, wymienić lub oddać. 
 ### 3. Czy według Ciebie aplikacja jest user friendly?
 Według mnie aplikacja jest user friendly. Nawigacja jest prosta, bardzo szybko można się zorientować jak jest cel aplikacji. Produkty można podzielić na kategorie oraz podkategorie, a dodatkowo zastosować jescze filtry zawężające wyniki wyszukiwania. Dodatkowe funkcjonoalności takie jak rejestracja konta/ logowanie/ wylogowywanie/ dodawanie produktów/ kupno oraz sprzedaż produktów nie są skomplikowane, a poszczególne pola do wypełnienia są jasno opisane. Dodatkowym plusem jest dla mnie kolorystyka, która jest jednolita i nie przeszkadza w korzystaniu z aplikacji. 
 ### 4. Jak byś usprawnił aplikację? Co byś w niej poprawił? Czy masz jakiś pomysł na dodatkową funkcjonalność? 
+* zmiejszyłabym minimalną ilość znaków wymaganych w opisie produktu podczas jego dodawania
+* dodałabym automatyczne zamykanie/ oznaczanie jako sprzedane ofert, które zostały sprzedane przez aplikację 
 ### 5. Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?
