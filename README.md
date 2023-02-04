@@ -97,6 +97,7 @@ Użytkownikiem końcowym aplikacji są wszyscy, którzy potrzebują coś sprzeda
 ### 3. Czy według Ciebie aplikacja jest user friendly?
 Według mnie aplikacja jest user friendly. Nawigacja jest prosta, bardzo szybko można się zorientować jak jest cel aplikacji. Produkty można podzielić na kategorie oraz podkategorie, a dodatkowo zastosować jescze filtry zawężające wyniki wyszukiwania. Dodatkowe funkcjonoalności takie jak rejestracja konta/ logowanie/ wylogowywanie/ dodawanie produktów/ kupno oraz sprzedaż produktów nie są skomplikowane, a poszczególne pola do wypełnienia są jasno opisane. Dodatkowym plusem jest dla mnie kolorystyka, która jest jednolita i nie przeszkadza w korzystaniu z aplikacji. 
 ### 4. Jak byś usprawnił aplikację? Co byś w niej poprawił? Czy masz jakiś pomysł na dodatkową funkcjonalność? 
+Do aplikacji dodałabym kilka usprawnień:
 * zmniejszyłabym minimalną ilość znaków wymaganych w opisie produktu podczas jego dodawania
 * dodałabym automatyczne zamykanie/ oznaczanie jako sprzedane ofert, które zostały sprzedane przez aplikację 
 * dodałabym opcję negocjacji ceny 
