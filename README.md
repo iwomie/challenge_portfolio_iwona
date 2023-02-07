@@ -69,23 +69,19 @@ Poruszanie się po aplikacji jest dosyć łatwe, tzn. nie miałam większych pro
 * Przy opuszczaniu strony z niezapisanym formularzem dodałabym komunikat, że opuszczenie strony spowoduje utracenie/ niezapisanie danych
 # Task 2 
 ## Subtask 1. Test cases
-https://docs.google.com/spreadsheets/d/1SGpjxqexbIPE9JSs438MBMgA6geVcO31SISJ9r27u9c/edit?usp=sharing
+_[Test cases](https://docs.google.com/spreadsheets/d/1SGpjxqexbIPE9JSs438MBMgA6geVcO31SISJ9r27u9c/edit?usp=sharing)_
 ## Subtask 2. Test cases
-https://docs.google.com/spreadsheets/d/1SRJXk_3-b_ZIS98n5aTPcu99Ty0H--Zjio9blAzJSFs/edit?usp=share_link
+_[Test cases](https://docs.google.com/spreadsheets/d/1SRJXk_3-b_ZIS98n5aTPcu99Ty0H--Zjio9blAzJSFs/edit?usp=share_link)_
 ## Subtask 3. Po co piszemy test case\'y?
 Przypadki testowe są tworzone w celu uporządkowania procesu testowania oraz, żeby można było z łatwością powtórzyć dany test np. po znalezieniu błędu i jego naprawieniu. Przypadki testowe dają obraz tego jak powinna działać aplikacja, pozwalają na wykrycie nie tylko ewentualnych błędów w testowanej aplikacji, ale również w dokumentacji czy users story. Dzięki test case'om mamy również kontrolę nad zmianami w aplikacji. 
 ## Subtask 4. Test cases
-https://docs.google.com/spreadsheets/d/1p_IvMNyt3BvLAFJwj0qZYxqbq75bnNNEeMAKMn7Fyuo/edit?usp=sharing
+_[Test cases](https://docs.google.com/spreadsheets/d/1p_IvMNyt3BvLAFJwj0qZYxqbq75bnNNEeMAKMn7Fyuo/edit?usp=sharing)_
 # Task 3
 ## Subtask 2. Testowanie według planów testów i raportowanie błędów
-* Testowanie według planów testów 
-
-https://docs.google.com/spreadsheets/d/18kLK4x-17psdC-EnCq14HQb1uiNIo_uRbaVzS4AVTRo/edit?usp=sharing
-* Raportowanie błędów
-
-https://docs.google.com/spreadsheets/d/17EiWaU9rMqxWLWueae70ncigpOV_Sexu0Aq4yc3YGV8/edit?usp=sharing
+* _[Testowanie według planów testów](https://docs.google.com/spreadsheets/d/18kLK4x-17psdC-EnCq14HQb1uiNIo_uRbaVzS4AVTRo/edit?usp=sharing)_
+* _[Raportowanie błędów](https://docs.google.com/spreadsheets/d/17EiWaU9rMqxWLWueae70ncigpOV_Sexu0Aq4yc3YGV8/edit?usp=sharing)_
 ## Subtask 3. Raport z wykonanych testów
-https://docs.google.com/document/d/1XFhdk0StShKBr0pOk9cfHfXyI3ce9fzmO732qFvB1Ys/edit?usp=sharing
+_[Raport z wykonanych testów](https://docs.google.com/document/d/1XFhdk0StShKBr0pOk9cfHfXyI3ce9fzmO732qFvB1Ys/edit?usp=sharing)_
 # Task 4
 ## Subtask 2. Testowanie eksploracyjne i raportowanie błędów
 https://docs.google.com/spreadsheets/d/1wosRaUmmiVkhifE9PtMZua0VE5fBsaMOzOVV7uJndL0/edit?usp=sharing
