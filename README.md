@@ -109,15 +109,15 @@ Zarówno w przypadku aplikacji internetowych, jak i natywnych niezbędne jest sp
 Błędy zaraportowane w Jirze: 
 * CPP-7
 
-_[Raport:](https://drive.google.com/file/d/1bMh8rMSOlw6a2juILncjxvngIy1fQ8uB/view?usp=share_link)_
+_[Raport](https://drive.google.com/file/d/1bMh8rMSOlw6a2juILncjxvngIy1fQ8uB/view?usp=share_link)_
 
-_Załącznik do raportu: https://drive.google.com/file/d/1Gu-qUXlMzo2M5TTGXZ6X1iP6V6h-v34i/view?usp=share_link_
+_[Załącznik do raportu](https://drive.google.com/file/d/1Gu-qUXlMzo2M5TTGXZ6X1iP6V6h-v34i/view?usp=share_link)_
 * CPP-8
 
-_Raport: https://drive.google.com/file/d/1tC8tx5DAdh_ziejCCzmh0X9qhnYt05ub/view?usp=share_link_
+_[Raport](https://drive.google.com/file/d/1tC8tx5DAdh_ziejCCzmh0X9qhnYt05ub/view?usp=share_link)_
 * CPP-9
 
-_Raport: https://drive.google.com/file/d/1EjLSxvLLejcuBZus1iVufGmdZQaUIcOs/view?usp=share_link_
+_[Raport](https://drive.google.com/file/d/1EjLSxvLLejcuBZus1iVufGmdZQaUIcOs/view?usp=share_link)_
 * CPP-10
 
-_Raport: https://drive.google.com/file/d/1OnvDDyPszl5WvpNMkEK0-zCAqT8K7iO_/view?usp=share_link_
+_[Raport](https://drive.google.com/file/d/1OnvDDyPszl5WvpNMkEK0-zCAqT8K7iO_/view?usp=share_link)_
