@@ -102,3 +102,4 @@ Do aplikacji dodałabym kilka usprawnień:
 * dodałabym automatyczne zamykanie/ oznaczanie jako sprzedane ofert, które zostały sprzedane przez aplikację 
 * dodałabym opcję negocjacji ceny 
 ### 5. Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?
+Zarówno w przypadku aplikacji internetowych, jak i natywnych niezbędne jest sprawdzenie podstawowych funkcjonalności wynikających ze specyfikacji produktu bądź ustaleń z klientem. Różnicę stanowi to, że w przypadku aplikacji natywnej duży nacik położony jest na sprawdzenie wydajności danej aplikacji oraz przystosowanie jej interfejsu do danego urządzenia oraz sprawdzenie czy użytkownik danego urządzenia nie będzie miał problemów z nim związanych. 
