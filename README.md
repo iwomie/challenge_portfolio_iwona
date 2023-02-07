@@ -108,11 +108,16 @@ Zarówno w przypadku aplikacji internetowych, jak i natywnych niezbędne jest sp
 ## Subtask 4. Testy aplikacji mobilnej
 Błędy zaraportowane w Jirze: 
 * CPP-7
+
 Raport: https://drive.google.com/file/d/1bMh8rMSOlw6a2juILncjxvngIy1fQ8uB/view?usp=share_link
+
 Załącznik do raportu: https://drive.google.com/file/d/1Gu-qUXlMzo2M5TTGXZ6X1iP6V6h-v34i/view?usp=share_link
 * CPP-8
+
 Raport: https://drive.google.com/file/d/1tC8tx5DAdh_ziejCCzmh0X9qhnYt05ub/view?usp=share_link
 * CPP-9
+
 Raport: https://drive.google.com/file/d/1EjLSxvLLejcuBZus1iVufGmdZQaUIcOs/view?usp=share_link
 * CPP-10
+
 Raport: https://drive.google.com/file/d/1OnvDDyPszl5WvpNMkEK0-zCAqT8K7iO_/view?usp=share_link
