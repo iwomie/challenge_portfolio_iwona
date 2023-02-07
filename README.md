@@ -107,17 +107,17 @@ Zarówno w przypadku aplikacji internetowych, jak i natywnych niezbędne jest sp
 
 ## Subtask 4. Testy aplikacji mobilnej
 Błędy zaraportowane w Jirze: 
-* CPP-7
+* CPP-7. FAQ does not work
 
 _[Raport](https://drive.google.com/file/d/1bMh8rMSOlw6a2juILncjxvngIy1fQ8uB/view?usp=share_link)_
 
 _[Załącznik do raportu](https://drive.google.com/file/d/1Gu-qUXlMzo2M5TTGXZ6X1iP6V6h-v34i/view?usp=share_link)_
-* CPP-8
+* CPP-8. Account deletion is difficult. The text entry line is hidden by the keyboard
 
 _[Raport](https://drive.google.com/file/d/1tC8tx5DAdh_ziejCCzmh0X9qhnYt05ub/view?usp=share_link)_
-* CPP-9
+* CPP-9. It is not possible to delete the picture from the account
 
 _[Raport](https://drive.google.com/file/d/1EjLSxvLLejcuBZus1iVufGmdZQaUIcOs/view?usp=share_link)_
-* CPP-10
+* CPP-10. It is possible to save invalid phone number 
 
 _[Raport](https://drive.google.com/file/d/1OnvDDyPszl5WvpNMkEK0-zCAqT8K7iO_/view?usp=share_link)_
