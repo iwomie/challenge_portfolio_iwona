@@ -64,7 +64,7 @@ Poruszanie się po aplikacji jest dosyć łatwe, tzn. nie miałam większych pro
 * Ekran główny 
 1. Pojawił się komunikat o niezapisanej grze z odnośnikiem do raportu, który powinien do niej przenieść, ale był on nieaktywny
 ### Co bym zmieniła lub dodała do aplikacji?
-* Przy próbie zalogowania się e-mailem, który nie został zarejestrowany w bazie, dodałabym informację, że nie istnieje konto powiązane z podanymi adresem e-mail 
+* Przy próbie zalogowania się e-mailem, który nie został zarejestrowany w bazie, dodałabym informację, że nie istnieje konto powiązane z podanym adresem e-mail 
 * Dodałabym informacje/ objaśnienia jakie dane mają się znaleźć w poszczególnych polach formularzy 
 * Przy opuszczaniu strony z niezapisanym formularzem dodałabym komunikat, że opuszczenie strony spowoduje utracenie/ niezapisanie danych
 # Task 2 
