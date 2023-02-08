@@ -88,7 +88,7 @@ Przypadki testowe są tworzone w celu uporządkowania procesu testowania oraz, �
 
 ## Subtask 3. Do czego służy aplikacja?
 ### 1. Do czego służy aplikacja? Jaki jest cel aplikacji?
-Aplikacja służy do kupna/sprzedaży/wymiany/oddawania/wynajmowania usług oraz towarów. Aplikacja posiada wiele różnych kategorii produktowej, a dzięki niej można w prosty sposób sprzedać lub oddać niepotrzebne rzeczy, znaleźć nowy dom dla zwierząt czy też zamieścić ogłoszenie o wynajmie mieszkania. W zależności od nabywanego produktu czy też usługi do wyboru jest odbiór osobisty lub przesyłka kurierska.   
+Aplikacja służy do kupna/sprzedaży/wymiany/oddawania/wynajmowania usług oraz towarów. Aplikacja posiada wiele różnych kategorii produktowych, a dzięki niej można w prosty sposób sprzedać lub oddać niepotrzebne rzeczy, znaleźć nowy dom dla zwierząt czy też zamieścić ogłoszenie o wynajmie czy sprzedaży mieszkania. W zależności od nabywanego produktu czy też usługi do wyboru jest odbiór osobisty lub przesyłka kurierska.   
 ### 2. Kto ma być użytkownikiem końcowym aplikacji?
 Użytkownikiem końcowym aplikacji są wszyscy, którzy potrzebują coś sprzedać/kupić, wymienić lub oddać. 
 ### 3. Czy według Ciebie aplikacja jest user friendly?
