@@ -21,7 +21,7 @@ _**[Task 4](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README
 
 _**[Task 5](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README.md#task-5)
 * _[Subtask 1. Polecenia SQL](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README.md#subtask-1-polecenia-sql)
-* _[Subtask 2. Konfiguracja środowiska i wgranie bazy danych]
+* _[Subtask 2. Konfiguracja środowiska i wgranie bazy danych](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README.md#subtask-2-konfiguracja-środowiska-i-wgranie-bazy-danych)
 
 # Task 1 
 ## Subtask 1. Wyniki testu 
