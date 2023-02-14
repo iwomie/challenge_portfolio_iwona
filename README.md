@@ -149,6 +149,7 @@ _[Raport](https://drive.google.com/file/d/1OnvDDyPszl5WvpNMkEK0-zCAqT8K7iO_/view
 #### 4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$
 ![4](https://user-images.githubusercontent.com/121899702/218862953-4f3065ed-9ac9-4dd0-a7a1-c287e2268066.png)
 #### 5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
+![5](https://user-images.githubusercontent.com/121899702/218863107-050f8547-7b45-4fa0-8ee8-92650356eb94.png)
 #### 6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.
 #### 7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.
 #### 8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
