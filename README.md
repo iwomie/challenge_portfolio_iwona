@@ -145,7 +145,7 @@ _[Raport](https://drive.google.com/file/d/1OnvDDyPszl5WvpNMkEK0-zCAqT8K7iO_/view
 #### 2. Wyświetl film, który powstał w 2019 roku.
 ![2](https://user-images.githubusercontent.com/121899702/218862074-9eb78fa8-9f43-4337-9ce7-c8fb57e74b5f.png)
 #### 3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.
-
+![3](https://user-images.githubusercontent.com/121899702/218865449-54fa4184-0831-4e48-9b00-0eadcbe35672.png)
 #### 4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$
 ![4](https://user-images.githubusercontent.com/121899702/218862953-4f3065ed-9ac9-4dd0-a7a1-c287e2268066.png)
 #### 5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
