@@ -19,7 +19,7 @@ _**[Task 4](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README
 * _[Subtask 3. Do czego służy aplikacja?](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README.md#subtask-3-do-czego-służy-aplikacja)_
 * _[Subtask 4. Testy aplikacji mobilnej](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README.md#subtask-4-testy-aplikacji-mobilnej)_
 
-_**[Task 5]
+_**[Task 5](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README.md#task-5)
 *_[Subtask 1. Polecenia SQL]
 *_[Subtask 2. Konfiguracja środowiska i wgranie bazy danych]
 
