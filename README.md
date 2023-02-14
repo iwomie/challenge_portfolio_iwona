@@ -22,6 +22,7 @@ _**[Task 4](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README
 _**[Task 5]
 *_[Subtask 1. Polecenia SQL]
 *_[Subtask 2. Konfiguracja środowiska i wgranie bazy danych]
+
 # Task 1 
 ## Subtask 1. Wyniki testu 
 10 😺
@@ -121,3 +122,8 @@ _[Raport](https://drive.google.com/file/d/1EjLSxvLLejcuBZus1iVufGmdZQaUIcOs/view
 * CPP-10. It is possible to save invalid phone number 
 
 _[Raport](https://drive.google.com/file/d/1OnvDDyPszl5WvpNMkEK0-zCAqT8K7iO_/view?usp=share_link)_
+
+# Task 5 
+## Subtask 1. Polecenia SQL
+
+## Subtask 2. Konfiguracja środowiska i wgranie bazy danych
