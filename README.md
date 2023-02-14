@@ -155,5 +155,6 @@ _[Raport](https://drive.google.com/file/d/1OnvDDyPszl5WvpNMkEK0-zCAqT8K7iO_/view
 #### 7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.
 ![7](https://user-images.githubusercontent.com/121899702/218863379-aa7aee4c-4b6e-4868-b80c-552740eeae8b.png)
 #### 8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
+![8](https://user-images.githubusercontent.com/121899702/218863471-12cd4fe7-3132-4e1e-8698-da9f381337bf.png)
 #### 9. Wyświetl dane klienta, który nie ma podanego adresu email.
 #### 10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
