@@ -141,7 +141,6 @@ _[Raport](https://drive.google.com/file/d/1OnvDDyPszl5WvpNMkEK0-zCAqT8K7iO_/view
 
 ## Subtask 2. Konfiguracja środowiska i wgranie bazy danych
 #### 1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
-https://github.com/iwomie/challenge_portfolio_iwona/commit/01c65328b7557a7fa4bb93d3db45aefdd7cac434
 #### 2. Wyświetl film, który powstał w 2019 roku.
 #### 3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.
 #### 4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$
