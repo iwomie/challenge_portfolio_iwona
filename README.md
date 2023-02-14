@@ -143,6 +143,7 @@ _[Raport](https://drive.google.com/file/d/1OnvDDyPszl5WvpNMkEK0-zCAqT8K7iO_/view
 #### 1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
 ![1](https://user-images.githubusercontent.com/121899702/218861202-2d85823f-da60-4fcc-b043-dd9c0bd1905e.png)
 #### 2. Wyświetl film, który powstał w 2019 roku.
+![2](https://user-images.githubusercontent.com/121899702/218862074-9eb78fa8-9f43-4337-9ce7-c8fb57e74b5f.png)
 #### 3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.
 #### 4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$
 #### 5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
