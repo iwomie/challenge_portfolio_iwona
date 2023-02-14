@@ -125,5 +125,18 @@ _[Raport](https://drive.google.com/file/d/1OnvDDyPszl5WvpNMkEK0-zCAqT8K7iO_/view
 
 # Task 5 
 ## Subtask 1. Polecenia SQL
+* SELECT
+* FROM
+* ORDER BY
+* WHERE
+* AND
+* OR
+* AS
+* DATEDIFF
+* COUNT
+* SUM
+* MIN
+* UPPER
+* GETDATE 
 
 ## Subtask 2. Konfiguracja środowiska i wgranie bazy danych
