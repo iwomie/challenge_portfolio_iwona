@@ -147,6 +147,7 @@ _[Raport](https://drive.google.com/file/d/1OnvDDyPszl5WvpNMkEK0-zCAqT8K7iO_/view
 #### 3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.
 ![3](https://user-images.githubusercontent.com/121899702/218862824-a3a3708e-2057-4a80-86f8-435414340dcc.png)
 #### 4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$
+![4](https://user-images.githubusercontent.com/121899702/218862953-4f3065ed-9ac9-4dd0-a7a1-c287e2268066.png)
 #### 5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
 #### 6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.
 #### 7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.
