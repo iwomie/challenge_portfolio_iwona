@@ -21,7 +21,7 @@ _**[Task 4](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README
 
 _**[Task 5](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README.md#task-5)**_
 * _[Subtask 1. Polecenia SQL](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README.md#subtask-1-polecenia-sql)_
-* _[Subtask 2. Konfiguracja środowiska i wgranie bazy danych](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README.md#subtask-2-konfiguracja-środowiska-i-wgranie-bazy-danych)_
+* _[Subtask 3. Zadania](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README.md#subtask-2-konfiguracja-środowiska-i-wgranie-bazy-danych)_
 
 # Task 1 
 ## Subtask 1. Wyniki testu 
@@ -139,7 +139,7 @@ _[Raport](https://drive.google.com/file/d/1OnvDDyPszl5WvpNMkEK0-zCAqT8K7iO_/view
 * UPPER
 * GETDATE 
 
-## Subtask 2. Konfiguracja środowiska i wgranie bazy danych
+## Subtask 3. Zadania
 #### 1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
 ![1](https://user-images.githubusercontent.com/121899702/218861202-2d85823f-da60-4fcc-b043-dd9c0bd1905e.png)
 #### 2. Wyświetl film, który powstał w 2019 roku.
