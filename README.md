@@ -160,3 +160,11 @@ _[Raport](https://drive.google.com/file/d/1OnvDDyPszl5WvpNMkEK0-zCAqT8K7iO_/view
 ![9](https://user-images.githubusercontent.com/121899702/218863557-95e6bfde-45fb-4ffa-92ce-e556d6fd5b95.png)
 #### 10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
 ![10](https://user-images.githubusercontent.com/121899702/218863585-870cf630-1fbf-4d61-9714-db6c60c5b47c.png)
+
+# Task 6
+## Subtask 1. Krótki kurs podstaw SQL
+#### 11. Popełniłam błąd wpisując nazwisko Ani Miler – wpisałam Muler. Znajdź i zastosuj funkcję, która poprawi mój karkołomny błąd 🙈
+![11](https://user-images.githubusercontent.com/121899702/219885611-0626fb35-36e0-442b-8fbf-324651f2df46.png)
+#### 14. Dla każdego zakupu wyświetl, imię i nazwisko klienta, który dokonał wypożyczenia oraz tytuł wypożyczonego filmu. (wykorzystaj do tego funkcję inner join, zastanów się wcześniej, które tabele Ci się przydadzą do wykonania ćwiczenia).
+![14](https://user-images.githubusercontent.com/121899702/219885627-e01af433-7140-416c-9708-7bba243a7ef7.png)
+
