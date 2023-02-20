@@ -185,5 +185,7 @@ _[Raport](https://drive.google.com/file/d/1OnvDDyPszl5WvpNMkEK0-zCAqT8K7iO_/view
 #### 17. Wyświetl wspólną listę imion wszystkich aktorów i klientów, a wynik uporządkuj alfabetycznie. (Wykorzystaj do tego funkcji UNION)
 ![17](https://user-images.githubusercontent.com/121899702/220198673-91c44ced-8509-45fa-97c8-77711e8acc0c.png)
 #### 18. Polskę opanowała inflacja i nasz sklepik z filmami również dotknął ten problem. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5 $ (Pamiętaj, że dolar to domyślna jednostka- nie używaj jej nigdzie).
+![18 1](https://user-images.githubusercontent.com/121899702/220200652-04ed36e1-9aaf-4d2e-ba7c-d4ccdfcec0ce.png)
+![18 2](https://user-images.githubusercontent.com/121899702/220200656-1e204293-034a-45a2-be1e-07d8ae6882a8.png)
 #### 19. Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał
 #### 20. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa
