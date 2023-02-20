@@ -170,6 +170,8 @@ _[Raport](https://drive.google.com/file/d/1OnvDDyPszl5WvpNMkEK0-zCAqT8K7iO_/view
 ![11](https://user-images.githubusercontent.com/121899702/219885611-0626fb35-36e0-442b-8fbf-324651f2df46.png)
 #### 12. Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej.
 ![12](https://user-images.githubusercontent.com/121899702/220184643-6e851904-80da-4ee2-b0b2-37e03d8231a4.png)
+#### 13. Na pewno zauważył_ś, że sprzedawca zapomniał wpisać emaila klientce Patrycji. Uzupełnij ten brak wpisując: pati@mail.com
+
 #### 14. Dla każdego zakupu wyświetl, imię i nazwisko klienta, który dokonał wypożyczenia oraz tytuł wypożyczonego filmu. (wykorzystaj do tego funkcję inner join, zastanów się wcześniej, które tabele Ci się przydadzą do wykonania ćwiczenia).
 ![14](https://user-images.githubusercontent.com/121899702/219885627-e01af433-7140-416c-9708-7bba243a7ef7.png)
 
