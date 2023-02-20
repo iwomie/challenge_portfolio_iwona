@@ -23,6 +23,9 @@ _**[Task 5](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README
 * _[Subtask 1. Polecenia SQL](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README.md#subtask-1-polecenia-sql)_
 * _[Subtask 3. Zadania](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README.md#subtask-3-zadania)_
 
+_**[Task 6](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README.md#task-6)
+* _[Subtask 1. Zadania]
+
 # Task 1 
 ## Subtask 1. Wyniki testu 
 10 😺
@@ -162,7 +165,7 @@ _[Raport](https://drive.google.com/file/d/1OnvDDyPszl5WvpNMkEK0-zCAqT8K7iO_/view
 ![10](https://user-images.githubusercontent.com/121899702/218863585-870cf630-1fbf-4d61-9714-db6c60c5b47c.png)
 
 # Task 6
-## Subtask 1. Krótki kurs podstaw SQL
+## Subtask 1. Zadania
 #### 11. Popełniłam błąd wpisując nazwisko Ani Miler – wpisałam Muler. Znajdź i zastosuj funkcję, która poprawi mój karkołomny błąd 🙈
 ![11](https://user-images.githubusercontent.com/121899702/219885611-0626fb35-36e0-442b-8fbf-324651f2df46.png)
 #### 12. Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej.
