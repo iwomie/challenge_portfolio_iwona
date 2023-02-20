@@ -23,8 +23,8 @@ _**[Task 5](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README
 * _[Subtask 1. Polecenia SQL](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README.md#subtask-1-polecenia-sql)_
 * _[Subtask 3. Zadania](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README.md#subtask-3-zadania)_
 
-_**[Task 6](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README.md#task-6)
-* _[Subtask 1. Zadania]
+_**[Task 6](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README.md#task-6)**_
+* _[Subtask 1. Zadania](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README.md#subtask-1-zadania)_
 
 # Task 1 
 ## Subtask 1. Wyniki testu 
