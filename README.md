@@ -190,3 +190,10 @@ _[Raport](https://drive.google.com/file/d/1OnvDDyPszl5WvpNMkEK0-zCAqT8K7iO_/view
 ![18 2](https://user-images.githubusercontent.com/121899702/220200656-1e204293-034a-45a2-be1e-07d8ae6882a8.png)
 #### 19. Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał
 #### 20. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa
+
+## Subtask 2. Test 
+10/15 😿 
+
+## Subtask 3. Portfolio 
+
+[Portfolio_Iwona_Mierzejewska](
