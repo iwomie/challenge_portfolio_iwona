@@ -198,4 +198,4 @@ _[Raport](https://drive.google.com/file/d/1OnvDDyPszl5WvpNMkEK0-zCAqT8K7iO_/view
 
 ## Subtask 3. Portfolio 
 
-[Portfolio_Iwona_Mierzejewska](https://github.com/iwomie/Portfolio)
+[Portfolio Iwona Mierzejewska](https://github.com/iwomie/Portfolio)
