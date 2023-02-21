@@ -26,7 +26,7 @@ _**[Task 5](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README
 _**[Task 6](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README.md#task-6)**_
 * _[Subtask 1. Zadania](https://github.com/iwomie/challenge_portfolio_iwona/blob/main/README.md#subtask-1-zadania)_
 * _[Subtask 2. Test](https://github.com/iwomie/challenge_portfolio_iwona#subtask-2-test)_
-* _[Subtask 3. Portfolio](https://github.com/iwomie/challenge_portfolio_iwona#subtask-3-portfolio)
+* _[Subtask 3. Portfolio](https://github.com/iwomie/challenge_portfolio_iwona#subtask-3-portfolio)_
 
 # Task 1 
 ## Subtask 1. Wyniki testu 
