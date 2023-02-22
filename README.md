@@ -171,7 +171,7 @@ _[Raport](https://drive.google.com/file/d/1OnvDDyPszl5WvpNMkEK0-zCAqT8K7iO_/view
 #### 11. Popełniłam błąd wpisując nazwisko Ani Miler – wpisałam Muler. Znajdź i zastosuj funkcję, która poprawi mój karkołomny błąd 🙈
 ![11](https://user-images.githubusercontent.com/121899702/219885611-0626fb35-36e0-442b-8fbf-324651f2df46.png)
 #### 12. Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej.
-![12](https://user-images.githubusercontent.com/121899702/220184643-6e851904-80da-4ee2-b0b2-37e03d8231a4.png)
+![12 vol 2](https://user-images.githubusercontent.com/121899702/220771256-6dc74386-8763-4a21-86a3-c69bc4f28f65.png)
 #### 13. Na pewno zauważył_ś, że sprzedawca zapomniał wpisać emaila klientce Patrycji. Uzupełnij ten brak wpisując: pati@mail.com
 ![13 1](https://user-images.githubusercontent.com/121899702/220191021-89b223bf-3deb-4fce-bd2d-d6d05f2e8587.png)
 
