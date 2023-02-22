@@ -185,7 +185,7 @@ _[Raport](https://drive.google.com/file/d/1OnvDDyPszl5WvpNMkEK0-zCAqT8K7iO_/view
 #### 16. Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały.
 ![16](https://user-images.githubusercontent.com/121899702/220196251-f33cd4a4-2c88-4da9-99fa-a49a57c436d5.png)
 #### 17. Wyświetl wspólną listę imion wszystkich aktorów i klientów, a wynik uporządkuj alfabetycznie. (Wykorzystaj do tego funkcji UNION)
-![17](https://user-images.githubusercontent.com/121899702/220198673-91c44ced-8509-45fa-97c8-77711e8acc0c.png)
+![17 vol 2](https://user-images.githubusercontent.com/121899702/220773375-51d61ef1-4e80-48c8-ac9a-cf1a087a4c41.png)
 #### 18. Polskę opanowała inflacja i nasz sklepik z filmami również dotknął ten problem. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5 $ (Pamiętaj, że dolar to domyślna jednostka- nie używaj jej nigdzie).
 ![18 1](https://user-images.githubusercontent.com/121899702/220200652-04ed36e1-9aaf-4d2e-ba7c-d4ccdfcec0ce.png)
 
